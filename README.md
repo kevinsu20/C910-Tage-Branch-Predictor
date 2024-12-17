@@ -1,4 +1,4 @@
-# C910-Tage-Branch-Predictor
+# SZ0113RV C910-Tage-Branch-Predictor
 Superscalar CPU ，Based on the reconstruction of Xuantie C910
 
 Rebuild the branch prediction module based on Tage algorithm.
